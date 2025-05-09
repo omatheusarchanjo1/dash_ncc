@@ -1,12 +1,6 @@
-# CONEXÃO COM DATABRICKS
-from databricks import sql
-import os
+
+
 import pandas as pd
-import io
-import unicodedata
-import pyodbc
-import win32
-import win32com.client
 import matplotlib.pyplot as plt
 import streamlit as st
 import plotly.express as px
