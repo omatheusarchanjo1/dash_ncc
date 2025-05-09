@@ -6,3 +6,4 @@ matplotlib
 pyodbc
 databricks-sql
 plotly
+win32
